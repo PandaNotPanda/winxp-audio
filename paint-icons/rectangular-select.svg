@@ -1,0 +1,18 @@
+<svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 0.5H4" stroke="white"/>
+<path d="M5 0.5H7" stroke="white"/>
+<path d="M8 0.5H10" stroke="white"/>
+<path d="M11 0.5H13" stroke="white"/>
+<path d="M0.5 11L0.5 9" stroke="white"/>
+<path d="M0.5 8L0.5 6" stroke="white"/>
+<path d="M0.5 5L0.5 3" stroke="white"/>
+<path d="M0.5 2L0.5 0" stroke="white"/>
+<path d="M2 10.5H4" stroke="white"/>
+<path d="M5 10.5H7" stroke="white"/>
+<path d="M8 10.5H10" stroke="white"/>
+<path d="M11 10.5H13" stroke="white"/>
+<path d="M14.5 11V9" stroke="white"/>
+<path d="M14.5 8V6" stroke="white"/>
+<path d="M14.5 5V3" stroke="white"/>
+<path d="M14.5 2V0" stroke="white"/>
+</svg>
